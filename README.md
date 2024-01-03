@@ -12,7 +12,7 @@ These are links to my posts:
 
 ------------------------------------
 
-Be sure to check out my Jupyter Notebook file in <b>Training_deCNN.ipynb</b> to see how I have created this computer vision model from scratch and how I load and transform the ImageNet-1K dataset from HuggingFace!
+Be sure to check out my Jupyter Notebook file in <a href="https://github.com/Neatherblok/deCNN/blob/main/Training_deCNN.ipynb"><b>Training_deCNN.ipynb</b></a> to see how I have created this computer vision model from scratch and how I load and transform the ImageNet-1K dataset from HuggingFace!
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Neatherblok"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Neatherblok" /></a></p><br><br>
