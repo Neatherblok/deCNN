@@ -7,7 +7,8 @@ These are links to my posts:
 <ul>
   <li> <a href="https://medium.com/@ricodedeijn/image-classification-computer-vision-from-scratch-pt-1-d02033edd70d">Image Classification — Computer Vision From Scratch (pt.1)</a> </li>
   <li> <a href="https://medium.com/@ricodedeijn/image-classification-computer-vision-from-scratch-pt-2-aaa503e6c294">Image Classification — Computer Vision From Scratch (pt.2)</a> </li>
-  <li> <b>[COMING SOON]</b> Image Classification — Computer Vision From Scratch (pt.3)</li>
+    <li> <a href="https://medium.com/@ricodedeijn/image-classification-computer-vision-from-scratch-pt-3-9d5fbcf3c363">Image Classification — Computer Vision From Scratch (pt.3)</a> </li>
+  <li> <b>[COMING SOON]</b> Image Classification — Computer Vision From Scratch (pt.4)</li>
 </ul>
 
 ------------------------------------
